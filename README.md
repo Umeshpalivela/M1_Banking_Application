@@ -15,5 +15,5 @@ Features:
 Create an account
 Deposit amount
 Balance Enquiry
-List account holder’s detail
-#Taken Reference from AdityaGautam
+List account holder’s detail  
+# Taken Reference from AdityaGautam
